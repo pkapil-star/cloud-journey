@@ -1,14 +1,14 @@
-# Day 01: Linux shuru
+# Day 01: Starting Linux
 
 Date: 2026-10-25
 
-## Aaj kya kiya
+## What I did today
 
-- Repo setup kiya aur Phase 1 start kiya.
+- Set up the repo and started Phase 1.
 
-## Seekha
+## What I learned
 
-(yahan likhna: commands + unka matlab)
+(Write commands here, along with what they mean.)
 
 ## Doubts
 

@@ -1,31 +1,31 @@
 # Cloud Journey
 
-Cloud engineer banne ka mera roadmap, phase by phase. Har phase ka notes, code aur projects is repo mein hain.
+My roadmap to becoming a cloud engineer, phase by phase. Notes, code and projects for every phase live in this repo.
 
 ## Progress
 
 - [ ] **Phase 0**: Setup (AWS account, billing alert, MFA, WSL2)
-- [ ] **Phase 1**: Fundamentals (Linux, Networking, Scripting, Git) ← *currently here: Linux*
+- [ ] **Phase 1**: Fundamentals (Linux, Networking, Scripting, Git) <- *currently here: Linux*
 - [ ] **Phase 2**: AWS Core (IAM, EC2, VPC, S3, RDS, ELB, Route 53, CloudWatch, Lambda)
 - [ ] **Phase 3**: Docker + Terraform
 - [ ] **Phase 4**: CI/CD (GitHub Actions)
 - [ ] **Phase 5**: Kubernetes
 - [ ] **Phase 6**: Observability, Security, Cost
-- [ ] **Phase 7**: Architecture and real-world
+- [ ] **Phase 7**: Architecture and real-world systems
 
 ## Folder structure
 
 ```
 cloud-journey/
-├── README.md               <- yeh file (overall progress)
+├── README.md               <- this file (overall progress)
 └── phase-1-linux/
-    ├── README.md           <- phase ka plan + checklist
+    ├── README.md           <- phase plan + checklist
     ├── notes/              <- markdown notes
     └── scripts/            <- practice scripts
 ```
 
-Naye phases ke folders jaise-jaise shuru honge, add hote jaayenge.
+New phase folders will be added as each phase begins.
 
 ## Rule
 
-Har video/lab ke baad: notes + code yahan push. Tutorial dekhna kaafi nahi, khud banana zaroori hai.
+After every video or lab: push notes and code here. Watching tutorials is not enough; build it yourself.

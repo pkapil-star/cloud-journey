@@ -1,11 +1,11 @@
-# Phase 1: Fundamentals (Linux se shuruaat)
+# Phase 1: Fundamentals (starting with Linux)
 
 **Started:** 2026-10-25
-**Status:** Linux learning shuru
+**Status:** Linux learning in progress
 
 ## Goal
 
-Cloud basically kisi aur ki machines pe Linux + networking hai. Pehle Linux pakka karna hai.
+Cloud is basically Linux + networking running on someone else's machines. Get Linux solid first.
 
 ## Linux checklist
 
@@ -16,9 +16,9 @@ Cloud basically kisi aur ki machines pe Linux + networking hai. Pehle Linux pakk
 - [ ] Remote access (`ssh`, `scp`, `curl`)
 - [ ] Text tools (`grep`, `awk`, `sed`)
 - [ ] OverTheWire Bandit: levels 0 to 20
-- [ ] Practice: Ubuntu pe Nginx install kar ke Node app reverse-proxy karna
+- [ ] Practice: install Nginx on Ubuntu and reverse-proxy a Node app
 
-## Resources (free)
+## Free resources
 
 - OverTheWire Bandit: https://overthewire.org/wargames/bandit
 - Linux Journey: https://linuxjourney.com
@@ -26,11 +26,11 @@ Cloud basically kisi aur ki machines pe Linux + networking hai. Pehle Linux pakk
 - freeCodeCamp YouTube: Linux for Beginners
 - The Linux Command Line (William Shotts): linuxcommand.org
 
-## Aage ke topics (is phase mein)
+## Coming up in this phase
 
 Networking (IP, CIDR, DNS, HTTP), Bash/Python scripting, Git.
 
 ## Folders
 
-- `notes/`: har din ke notes
+- `notes/`: daily notes
 - `scripts/`: practice scripts
